@@ -1,0 +1,237 @@
+{
+  "warns": {
+    "1349497010251632660": {
+      "1139973566192955462": [
+        {
+          "id": "1791960734507",
+          "type": "pred",
+          "reason": "2.1",
+          "moderatorId": "1236756793078710393",
+          "createdAt": "2026-10-14T06:52:14.507Z"
+        }
+      ],
+      "1402685814990831646": [
+        {
+          "id": "1791960869949",
+          "type": "warn",
+          "reason": "2.1",
+          "moderatorId": "1236756793078710393",
+          "createdAt": "2026-10-14T06:54:29.949Z"
+        },
+        {
+          "id": "1791964370097",
+          "type": "pred",
+          "reason": "1.2",
+          "moderatorId": "915979435679821874",
+          "createdAt": "2026-10-14T07:52:50.097Z"
+        }
+      ]
+    }
+  },
+  "staffStats": {
+    "1349497010251632660": {
+      "1236756793078710393": {
+        "moderator": 8,
+        "support": 0,
+        "closer": 0,
+        "creative": 1,
+        "lastReset": 1791960734509
+      },
+      "915979435679821874": {
+        "moderator": 1,
+        "support": 0,
+        "closer": 0,
+        "creative": 0,
+        "lastReset": 1791964370098
+      }
+    }
+  },
+  "blacklist": {
+    "1349497010251632660": {
+      "1402685814990831646": {
+        "userId": "1402685814990831646",
+        "moderatorId": "1236756793078710393",
+        "reason": "а",
+        "previousRoles": [
+          "1558131283844923472",
+          "1559920247300161587"
+        ],
+        "createdAt": "2026-10-15T11:14:57.980Z"
+      }
+    }
+  },
+  "appeals": {
+    "1349497010251632660": {
+      "1402685814990831646": {
+        "userId": "1402685814990831646",
+        "reason": "1236756793078710393",
+        "promise": "gisa",
+        "status": "pending",
+        "createdAt": "2026-10-15T14:51:43.345Z"
+      }
+    }
+  },
+  "reports": {
+    "1349497010251632660": {
+      "1791977187903": {
+        "id": "1791977187903",
+        "authorId": "1236756793078710393",
+        "targetId": "1402685814990831646",
+        "reason": "тест",
+        "proof": "",
+        "status": "pending",
+        "createdAt": "2026-10-14T11:26:27.903Z"
+      },
+      "1791977641502": {
+        "id": "1791977641502",
+        "authorId": "1236756793078710393",
+        "targetId": "1402685814990831646",
+        "reason": "тест",
+        "proof": "",
+        "targetVoiceId": null,
+        "targetVoiceName": null,
+        "authorVoiceId": "1349500357440438322",
+        "authorVoiceName": "⚪ · R ¹",
+        "textChannelId": "1558604530172821544",
+        "status": "pending",
+        "createdAt": "2026-10-14T11:34:01.502Z"
+      },
+      "1791977684469": {
+        "id": "1791977684469",
+        "authorId": "1236756793078710393",
+        "targetId": "1402685814990831646",
+        "reason": "па",
+        "proof": "",
+        "targetVoiceId": "1558133883214499942",
+        "targetVoiceName": "⚪ · R ⁴",
+        "authorVoiceId": "1349500357440438322",
+        "authorVoiceName": "⚪ · R ¹",
+        "textChannelId": "1558604530172821544",
+        "status": "pending",
+        "createdAt": "2026-10-14T11:34:44.469Z"
+      },
+      "1791978743833": {
+        "id": "1791978743833",
+        "authorId": "1402685814990831646",
+        "targetId": "915979435679821874",
+        "reason": "pidor",
+        "proof": "",
+        "targetVoiceId": "1349500357440438322",
+        "targetVoiceName": "⚪ · R ¹",
+        "authorVoiceId": null,
+        "authorVoiceName": null,
+        "textChannelId": "1558604530172821544",
+        "status": "pending",
+        "createdAt": "2026-10-14T11:52:23.833Z"
+      }
+    }
+  },
+  "voiceCalls": {
+    "1349497010251632660": {
+      "mv9he2rt218j": {
+        "id": "mv9he2rt218j",
+        "voiceChannelId": "1349500357440438322",
+        "voiceChannelName": "⚪ · R ¹",
+        "authorId": "1236756793078710393",
+        "participants": [
+          {
+            "id": "1236756793078710393",
+            "tag": "aye22221"
+          }
+        ],
+        "reason": "gise",
+        "details": "test",
+        "status": "pending",
+        "createdAt": "2026-10-15T11:54:28.361Z"
+      }
+    }
+  },
+  "roleHistory": {
+    "1349497010251632660": {
+      "1402685814990831646": {
+        "1558131283844923472": {
+          "executorId": "1236756793078710393",
+          "executorTag": "aye22221",
+          "timestamp": 1792331528529,
+          "createdAt": "2026-10-18T13:52:08.529Z",
+          "updatedAt": "2026-10-18T13:52:15.838Z"
+        }
+      },
+      "1178757927805395007": {
+        "1558131283844923472": {
+          "executorId": "1236756793078710393",
+          "executorTag": "aye22221",
+          "timestamp": 1792331537761,
+          "createdAt": "2026-10-18T13:52:17.761Z",
+          "updatedAt": "2026-10-18T13:52:24.959Z"
+        }
+      },
+      "1236756793078710393": {
+        "1558592734816772096": {
+          "executorId": "1236756793078710393",
+          "executorTag": "aye22221",
+          "timestamp": 1792335509878,
+          "createdAt": "2026-10-18T14:58:29.878Z",
+          "updatedAt": "2026-10-18T14:58:37.110Z"
+        }
+      },
+      "915979435679821874": {
+        "1561374910323097640": {
+          "executorId": "1561312269269213225",
+          "executorTag": "verefy#6818",
+          "timestamp": 1792336221451,
+          "createdAt": "2026-10-18T15:10:21.451Z",
+          "updatedAt": "2026-10-18T15:10:28.637Z"
+        }
+      }
+    }
+  },
+  "punishmentHistory": {},
+  "keyRequests": {
+    "1349497010251632660": {
+      "1792331398698znz": {
+        "id": "1792331398698znz",
+        "userId": "1236756793078710393",
+        "userTag": "aye22221",
+        "keyType": "key",
+        "roleId": "1558596783314182164",
+        "reason": "test",
+        "contacts": "test",
+        "status": "pending",
+        "resolvedBy": null,
+        "resolvedAt": null,
+        "rejectReason": null,
+        "createdAt": "2026-10-18T13:49:58.698Z"
+      },
+      "1792331560882yli": {
+        "id": "1792331560882yli",
+        "userId": "1402685814990831646",
+        "userTag": "fanatkakoshhaa",
+        "keyType": "key",
+        "roleId": "1558596783314182164",
+        "reason": "test",
+        "contacts": "test",
+        "status": "rejected",
+        "resolvedBy": "1236756793078710393",
+        "resolvedAt": "2026-10-18T14:58:42.574Z",
+        "rejectReason": "в",
+        "createdAt": "2026-10-18T13:52:40.882Z"
+      },
+      "1792335538169c3o": {
+        "id": "1792335538169c3o",
+        "userId": "1402685814990831646",
+        "userTag": "fanatkakoshhaa",
+        "keyType": "key",
+        "roleId": "1558596783314182164",
+        "reason": "test",
+        "contacts": "test",
+        "status": "rejected",
+        "resolvedBy": "1236756793078710393",
+        "resolvedAt": "2026-10-18T14:59:34.131Z",
+        "rejectReason": "ва",
+        "createdAt": "2026-10-18T14:58:58.169Z"
+      }
+    }
+  },
+  "keyHolders": {}
+}
